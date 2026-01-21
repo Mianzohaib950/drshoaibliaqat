@@ -38,7 +38,7 @@ const Stats: React.FC = () => {
                 <div className="text-xs text-slate-400 uppercase tracking-wide">Patients Treated</div>
               </div>
               <div className="bg-white/5 backdrop-blur-sm border border-white/10 p-6 rounded-2xl">
-                <div className="text-3xl font-bold text-purple-400 mb-1">10+</div>
+                <div className="text-3xl font-bold text-purple-400 mb-1">5+</div>
                 <div className="text-xs text-slate-400 uppercase tracking-wide">Years Experience</div>
               </div>
               <div className="bg-white/5 backdrop-blur-sm border border-white/10 p-6 rounded-2xl">
